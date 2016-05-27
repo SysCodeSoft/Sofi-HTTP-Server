@@ -1,6 +1,6 @@
 {
-    "name": "syscode/sofi-http-server",
-    "description": "Sofi Framework HTTP Server",
+    "name": "syscode/sofi-server",
+    "description": "Sofi Framework Server",
     "keywords": [
         "Sofi",
         "PHP",
